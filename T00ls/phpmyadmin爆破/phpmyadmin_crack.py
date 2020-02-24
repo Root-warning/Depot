@@ -1,3 +1,4 @@
+# @Author：只因不值得
 import requests,re,threading
 from colorama import Fore
 
