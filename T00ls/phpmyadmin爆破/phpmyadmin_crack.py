@@ -49,5 +49,5 @@ if __name__ == "__main__":
         user.append(username.strip("\n"))
     print(Fore.GREEN + "[+] 开始暴力破解phpmyadmin" + Fore.WHITE)
     # "http://127.0.0.1/phpmyadmin/"
-    t = Crack(Url,user)
+    t = Crack(Url+"/",user)
     t.start()
