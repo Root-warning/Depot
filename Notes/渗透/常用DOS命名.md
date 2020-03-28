@@ -1,8 +1,15 @@
-## 查看版本`ver`
-## 查看权限`whoami`
-## 查看配置`systeminfo`
-## 查看用户名`net user`
-<!--more-->
+## 查看版本
+`ver`
+
+## 查看权限
+`whoami`
+
+## 查看配置
+`systeminfo`
+
+## 查看用户名
+`net user`
+
 ## 查看进程
 `tasklist`
 ## 查看正在运行的服务
