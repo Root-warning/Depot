@@ -1,11 +1,3 @@
----
-title: MongoDB基础学习
-tags: windows
-categories:
-  - 随手记
-abbrlink: 8c3b0bac
----
-
 # 简介
 `分布式数据库`：由多态计算机和通讯的软件组件通过计算机网络组成的，建立在网络之上的软件系统
 MongoDB是一个基于分布式文件存储的数据库，由C++编写
